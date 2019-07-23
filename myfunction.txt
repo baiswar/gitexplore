@@ -1,4 +1,6 @@
 one function - i have added very very new function
+one function - i have added very new function 
+
 one function - i have added very new function second
 one function - i have added very new function third
 one function - i have added very new function four
@@ -6,3 +8,4 @@ one function - i have added very new function four
 added a chart function in 
 
 added a code for logout
+
