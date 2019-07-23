@@ -1,10 +1,10 @@
-one function - i have added very new function ok
+one function - i have added very new function 
 one function - i have added very new function second
 one function - i have added very new function third
 one function - i have added very new function four
 
 added a chart function in our branch
 
-adding a new function to login user via new method
+
 
 
